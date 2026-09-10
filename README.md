@@ -4,7 +4,9 @@ Your phone is a slab of frosted glass. The interface is not on it, it is behind 
 fixed plane in the room. Tilt the phone and the interface stays exactly where it was in space, while
 the screen shows you what you would see through a pane of cloudy glass that has swung away from it.
 
-https://github.com/askmaddyy/FrostFold/raw/main/Docs/demo.mp4
+<video src="https://github.com/askmaddyy/FrostFold/raw/main/Docs/demo.mp4" controls muted loop playsinline width="320"></video>
+
+[Download the clip](Docs/demo.mp4) if the player does not load.
 
 ## The model
 
